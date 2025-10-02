@@ -540,3 +540,10 @@ ul.sponsors {
 	color: #8F8F8F;
 	font-size: 11px;
 }
+
+.block {
+  border: 1px solid #e74d3c;
+  border-radius: 5px;
+  padding: 0.2em;
+  text-align: center;
+}
