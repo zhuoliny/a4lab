@@ -364,6 +364,7 @@ body>.navbar .brand:hover {
 }
 
 .feature-heading {
+	text-align: center;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	margin-left: 15px;
