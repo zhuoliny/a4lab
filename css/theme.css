@@ -418,10 +418,10 @@ body>.navbar .brand:hover {
 }
 
 .lead {
-	margin-bottom: 0px;
+	/* margin-bottom: 0px; */
 	font-size: 28px;
 	font-weight: 200;
-	/* line-height: 15px; */
+	line-height: 15px;
 }
 
 img.float-left {
