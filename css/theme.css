@@ -395,7 +395,7 @@ body>.navbar .brand:hover {
 	padding: 45px 0px 35px 0px;
 	color: #0C234B;
 	text-align: center;
-	text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);
+	/* text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075); */
 }
 
 .jumbotron:after {
