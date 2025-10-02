@@ -340,9 +340,9 @@ body>.navbar .brand:hover {
 	line-height: 55px;
 }
 
-.feature-item:hover {
+/* .feature-item:hover {
 	box-shadow: 0px 1px 5px 1px rgb(216, 216, 216)
-}
+} */
 
 .feature-item img {
 	margin-left: 15px;
