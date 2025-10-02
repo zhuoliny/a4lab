@@ -20,12 +20,12 @@ body {
 /* Customize the navbar links to be fill the entire space of the .navbar */
 
 .navbar .navbar-inner {
-	padding: 0 0 35px 0;
+	padding: 0;
 	border: none;
 }
 
 .navbar .nav {
-	margin: 0;
+	margin: 0 0 35px 0;
 	display: table;
 	width: 100%;
 	border: none;
