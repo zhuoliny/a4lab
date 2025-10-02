@@ -121,6 +121,7 @@ body>.navbar .brand:hover {
 	padding: 8px 30px;
 	border: 1px solid #e5e5e5;
 	font-size: 12px;
+	color: #000;
 }
 
 .bs-docs-sidenav>li:first-child>a {
