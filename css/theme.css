@@ -20,7 +20,7 @@ body {
 /* Customize the navbar links to be fill the entire space of the .navbar */
 
 .navbar .navbar-inner {
-	padding: 0;
+	padding: 0 0 35px 0;
 	border: none;
 }
 
@@ -29,7 +29,6 @@ body {
 	display: table;
 	width: 100%;
 	border: none;
-	padding-bottom: 35px;
 }
 
 .navbar .nav li {
@@ -401,7 +400,7 @@ body>.navbar .brand:hover {
 
 .jumbotron {
 	position: relative;
-	padding: 5px 0px 35px 0px;
+	padding: 0px 0px 35px 0px;
 	color: #000;
 	text-align: left;
 	/* text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075); */
