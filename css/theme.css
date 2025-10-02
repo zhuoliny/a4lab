@@ -98,6 +98,7 @@ body>.navbar .brand:hover {
 	margin: 30px 0 0;
 	padding: 0;
 	background-color: #fff;
+	color: #000;
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
 	border-radius: 6px;
@@ -140,6 +141,7 @@ body>.navbar .brand:hover {
 	z-index: 2;
 	padding: 9px 15px;
 	border: 0;
+	background-color: #f5f5f5;
 	text-shadow: 0 1px 0 rgba(0, 0, 0, .15);
 	-webkit-box-shadow: inset 1px 0 0 rgba(0, 0, 0, .1), inset -1px 0 0 rgba(0, 0, 0, .1);
 	-moz-box-shadow: inset 1px 0 0 rgba(0, 0, 0, .1), inset -1px 0 0 rgba(0, 0, 0, .1);
@@ -301,7 +303,7 @@ body>.navbar .brand:hover {
 }
 
 #media .post_row .post a.plus_wrapper span {
-	color: #000;
+	color: #1189D9;
 	font-size: 30px;
 	font-weight: bold;
 }
