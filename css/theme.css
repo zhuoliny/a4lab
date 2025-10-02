@@ -9,7 +9,7 @@ body {
 .container {
 	margin: 0 auto;
 	max-width: 1000px;
-	align-content: center;
+	justify-content: center;
 }
 
 .container>hr {
